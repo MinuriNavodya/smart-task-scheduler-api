@@ -9,7 +9,9 @@ A RESTful backend API built with Node.js and Express.js that allows students to 
 
 
 1.User registration and login with JWT authentication
+```
 2.Create, Read, Update and Delete tasks
+```
 3.Create, Read, Update and Delete categories
 4.Filter tasks by status, priority and keyword search
 5.View upcoming tasks due within the next 7 days
